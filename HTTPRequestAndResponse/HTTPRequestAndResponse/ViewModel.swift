@@ -10,7 +10,9 @@ import Foundation
 class ViewModel: ObservableObject {
 
     func fetchLittleLemonMenu() {
-        try? Networking().requestMenu()
+        try? Networking().requestMenu(onCompletion: { menu in
+            print(menu)
+        })
     }
     
 }
