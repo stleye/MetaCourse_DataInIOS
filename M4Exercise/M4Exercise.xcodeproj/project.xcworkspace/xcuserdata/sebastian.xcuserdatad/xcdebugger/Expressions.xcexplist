@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in DisplayDish.body.getter:DisplayDish.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dish">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static Dish.createDishesFrom(menuItems:_:):Dish+Extension.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "item.title">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DishesModel.reload(_:):DishesModel.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
